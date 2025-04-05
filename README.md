@@ -42,7 +42,7 @@ InClass_Week10/
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/<your-username>/<your-repo-name>.git](https://github.com/sivaramakrishna6768/aws-iot-mqtt-simulator-2)
+git clone https://github.com/sivaramakrishna6768/aws-iot-mqtt-simulator-2
 cd aws-iot-mqtt-simulator-2
 ```
 
